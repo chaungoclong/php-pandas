@@ -1,0 +1,16 @@
+{
+    "name": "chaungoclong/php-pandas",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Chaungoclong\\PhpPandas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chau Ngoc Long",
+            "email": "chaungoclong2411@gmail.com"
+        }
+    ],
+    "require": {}
+}
